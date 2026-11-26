@@ -71,7 +71,11 @@ I'm a Computer Science Engineering student specializing in **Artificial Intellig
 
 ### ☁️ Cloud & Platforms
 
+### ☁️ Cloud & Platforms
+
 ![Oracle Cloud](https://img.shields.io/badge/Oracle%20Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)
 
 ### 🛠️ Tools & Platforms
 
