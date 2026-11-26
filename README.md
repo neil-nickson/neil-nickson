@@ -47,6 +47,9 @@ I'm a Computer Science Engineering student specializing in **Artificial Intellig
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![MikroTik](https://img.shields.io/badge/RouterOS%20Script-293239?style=for-the-badge&logo=mikrotik&logoColor=white)
 
 ### 🤖 AI, ML & Data Science
 
