@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=NEIL%20NICKSON&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=AI%20%26%20Machine%20Learning%20Student&descAlignY=58&descSize=18" width="100%" alt="Neil Nickson profile banner" />
+
 
 ### 👋 Hey, I'm Neil Nickson!
 
