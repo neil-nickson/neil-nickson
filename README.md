@@ -1,17 +1,15 @@
- <!-- NEIL NICKSON | GITHUB PROFILE README -->
+ 
+<!-- NEIL NICKSON | GITHUB PROFILE README -->
 
 <div align="center">
 
-
-
 ### 👋 Hey, I'm Neil Nickson!
 
-### AI & ML Student | Former Intern @ NIWE  | Python Developer
+### AI & ML Student | Former Intern @ NIWE | Python Developer
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&duration=2800&pause=900&color=36BCF7&center=true&vCenter=true&width=650&lines=Exploring+Artificial+Intelligence;Learning+Machine+Learning;Interested+in+Data+Science;Building+with+Python+%26+Java;Turning+Ideas+Into+Technology" alt="Animated introduction: AI, ML, Data Science, Python and Java" />
 
 <br/>
-
 
 </div>
 
@@ -48,6 +46,7 @@ I'm a Computer Science Engineering student specializing in **Artificial Intellig
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 
 ### 🤖 AI, ML & Data Science
 
@@ -58,6 +57,7 @@ I'm a Computer Science Engineering student specializing in **Artificial Intellig
 
 ### 🌐 Development & Databases
 
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -65,6 +65,10 @@ I'm a Computer Science Engineering student specializing in **Artificial Intellig
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+
+### ☁️ Cloud & Platforms
+
+![Oracle Cloud](https://img.shields.io/badge/Oracle%20Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 
 ### 🛠️ Tools & Platforms
 
