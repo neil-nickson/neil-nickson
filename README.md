@@ -94,6 +94,16 @@ I'm a Computer Science Engineering student specializing in **Artificial Intellig
 
 ---
 
+## 🔥 Contribution Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com/?user=neil-nickson&theme=tokyonight&hide_border=true" alt="GitHub contribution streak, total contributions and longest streak" />
+
+</div>
+
+---
+
 ## 🌐 Connect With Me
 
 <div align="center">
