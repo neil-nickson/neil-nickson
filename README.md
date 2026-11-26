@@ -68,7 +68,7 @@ I'm a Computer Science Engineering student specializing in **Artificial Intellig
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
-### ☁️ Cloud & Platforms
+
 
 ### ☁️ Cloud & Platforms
 
