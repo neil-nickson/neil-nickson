@@ -6,14 +6,12 @@
 
 ### 👋 Hey, I'm Neil Nickson!
 
-### AI & ML Student | Former Intern @ NIWE 🌬️ | Python Developer
+### AI & ML Student | Former Intern @ NIWE  | Python Developer
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&duration=2800&pause=900&color=36BCF7&center=true&vCenter=true&width=650&lines=Exploring+Artificial+Intelligence;Learning+Machine+Learning;Interested+in+Data+Science;Building+with+Python+%26+Java;Turning+Ideas+Into+Technology" alt="Animated introduction: AI, ML, Data Science, Python and Java" />
 
 <br/>
 
-[![GitHub followers](https://img.shields.io/github/followers/neil-nickson?style=for-the-badge&logo=github&color=236ad3)](https://github.com/neil-nickson)
-[![GitHub stars](https://img.shields.io/github/stars/neil-nickson?style=for-the-badge&logo=github&color=yellow)](https://github.com/neil-nickson)
 
 </div>
 
